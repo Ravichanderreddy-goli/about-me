@@ -32,6 +32,5 @@ Master's in Applied Computer Science
 My Favourite image
  * ![image](https://images.pexels.com/photos/984802/pexels-photo-984802.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
- image source obtained from(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiQ1aaZtq7nAhVOAqwKHSnRC7cQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbike%2F&psig=AOvVaw32wLKTv8s_-q0h2KuefHy8&ust=1580580192307415) 
-
+ image source obtained from (https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiQ1aaZtq7nAhVOAqwKHSnRC7cQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbike%2F&psig=AOvVaw32wLKTv8s_-q0h2KuefHy8&ust=1580580192307415)
 
