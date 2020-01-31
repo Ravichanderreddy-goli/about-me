@@ -21,8 +21,10 @@ Helpful Links :
 
 ## Recommended Resources
 
-[A great place to learn any computer language is](https://www.w3schools.com/)
+A great place to learn any computer language is(https://www.w3schools.com/)
+
 (https://stackoverflow.com/)
+
 (https://try.github.io/)
 
 ## Contributors
